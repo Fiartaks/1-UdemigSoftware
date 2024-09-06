@@ -15,5 +15,5 @@ Projemizi klonlamak için aşağıdaki komutu kullanabilirsiniz:
 ```bash
 git clone https://github.com/fiartaks/udemig-software.git
 
-![](udemigsoftware.gif)
+![](UdemigSoftware.gif)
 
