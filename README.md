@@ -1,4 +1,4 @@
-# UdemigSoftware
+# Udemig Software
 Profesyonel web tasarımı ve gelişmiş web çözümleri sunan Udemig Software ile çevrimiçi varlığınızı güçlendirin.
 ## Hakkında
 
