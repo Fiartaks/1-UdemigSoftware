@@ -8,11 +8,9 @@ Udemig Software, kullanıcı deneyimini ön planda tutarak estetik ve işlevsel 
 - **HTML5 ve CSS3 Desteği:** Modern web standartları ile uyumlu tasarımlar.
 - **Zengin Grafik Tasarım:** Etkileşimli ve görsel olarak zengin içerikler.
 - **Kullanıcı Dostu Arayüz:** Kolay gezinme ve kullanıcı deneyimi.
-## Kullanım
+## Ekran Goruntusu
+![](UdemigSoftware.gif)
 
-Projemizi klonlamak için aşağıdaki komutu kullanabilirsiniz:
 
-```bash
-git clone https://github.com/fiartaks/udemig-software.git
 
 
