@@ -12,7 +12,7 @@ Udemig Software, kullanıcı deneyimini ön planda tutarak estetik ve işlevsel 
 - ## Teknik Bilgiler 
   https://medium.com/@fiartaks/udemig-software-html-structure-and-use-of-divs-26075f3514f6
 
-## Ekran Goruntusu
+## Sunum
 ![](UdemigSoftware.gif)
 
 
